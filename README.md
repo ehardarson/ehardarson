@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2](https://github.com/ehardarson/skills-introduction-to-codeql/pull/2) in [ehardarson/skills-introduction-to-codeql](https://github.com/ehardarson/skills-introduction-to-codeql)
+2. ❗ Opened issue [#1](https://github.com/ehardarson/skills-introduction-to-codeql/issues/1) in [ehardarson/skills-introduction-to-codeql](https://github.com/ehardarson/skills-introduction-to-codeql)
+<!--END_SECTION:activity-->
