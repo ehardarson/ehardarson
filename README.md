@@ -1,3 +1,5 @@
+[![Update README](https://github.com/ehardarson/ehardarson/actions/workflows/main.yml/badge.svg)](https://github.com/ehardarson/ehardarson/actions/workflows/main.yml)
+
 ## Hi there 👋
 
 <!--
