@@ -18,3 +18,8 @@ jobs:
         with:
           MAX_LINES: 5
           COMMIT_NAME: GitHub Activity Readme
+
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
