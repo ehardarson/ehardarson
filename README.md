@@ -1,4 +1,3 @@
-[![Update README](https://github.com/ehardarson/ehardarson/actions/workflows/main.yml/badge.svg)](https://github.com/ehardarson/ehardarson/actions/workflows/main.yml)
 
 ## Hi there 👋
 
@@ -28,3 +27,4 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 
+[![Update README](https://github.com/ehardarson/ehardarson/actions/workflows/main.yml/badge.svg)](https://github.com/ehardarson/ehardarson/actions/workflows/main.yml)
