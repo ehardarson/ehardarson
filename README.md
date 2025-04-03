@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+📫 MY BADGES
 <!-- Adding badges from Credly  -->
 <!--START_SECTION:badges-->
 [![GitHub Foundations](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/4bcfa377-2e04-47ba-b83a-136c1001a551 "GitHub Foundations")
