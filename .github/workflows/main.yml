@@ -20,8 +20,7 @@ jobs:
           COMMIT_NAME: GitHub Activity Readme
 
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@v2.4
-        
+        uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BADGE_SIZE: 80
