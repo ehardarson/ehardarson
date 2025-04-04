@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 ⚡ MY RECENT PUBLIC ACTIVITY ON GITHUB
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/ehardarson/skills-introduction-to-codeql/pull/2) in [ehardarson/skills-introduction-to-codeql](https://github.com/ehardarson/skills-introduction-to-codeql)
-2. ❗ Opened issue [#1](https://github.com/ehardarson/skills-introduction-to-codeql/issues/1) in [ehardarson/skills-introduction-to-codeql](https://github.com/ehardarson/skills-introduction-to-codeql)
+1. 💪 Opened PR [#1](https://github.com/ehardarson/skills-hello-github-actions/pull/1) in [ehardarson/skills-hello-github-actions](https://github.com/ehardarson/skills-hello-github-actions)
+2. 💪 Opened PR [#2](https://github.com/ehardarson/skills-introduction-to-codeql/pull/2) in [ehardarson/skills-introduction-to-codeql](https://github.com/ehardarson/skills-introduction-to-codeql)
 <!--END_SECTION:activity-->
 
 
