@@ -27,8 +27,8 @@
 
 ⚡ MY RECENT PUBLIC ACTIVITY ON GITHUB
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/ehardarson/skills-hello-github-actions/pull/1) in [ehardarson/skills-hello-github-actions](https://github.com/ehardarson/skills-hello-github-actions)
-2. 💪 Opened PR [#2](https://github.com/ehardarson/skills-introduction-to-codeql/pull/2) in [ehardarson/skills-introduction-to-codeql](https://github.com/ehardarson/skills-introduction-to-codeql)
+1. 💪 Opened PR [#1](https://github.com/ehardarson/skills-deploy-to-azure/pull/1) in [ehardarson/skills-deploy-to-azure](https://github.com/ehardarson/skills-deploy-to-azure)
+2. 🎉 Merged PR [#1](https://github.com/ehardarson/skills-test-with-actions/pull/1) in [ehardarson/skills-test-with-actions](https://github.com/ehardarson/skills-test-with-actions)
 <!--END_SECTION:activity-->
 
 
