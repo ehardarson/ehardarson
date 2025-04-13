@@ -8,6 +8,7 @@
 📫 MY BADGES
 <!-- Adding badges from Credly  -->
 <!--START_SECTION:badges-->
+[![GitHub Actions](https://images.credly.com/size/80x80/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](http://www.credly.com/badges/0626b533-1ffa-49ce-b261-425d7ab7d166 "GitHub Actions")
 [![GitHub Foundations](https://images.credly.com/size/80x80/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](http://www.credly.com/badges/4bcfa377-2e04-47ba-b83a-136c1001a551 "GitHub Foundations")
 [![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/80x80/images/ed4be915-68f8-428a-b332-40ded9084ee5/blob)](http://www.credly.com/badges/4888965d-1adf-482e-bb71-893bdf315628 "HashiCorp Certified: Terraform Associate (003)")
 [![Microsoft Certified: Azure Administrator Associate](https://images.credly.com/size/80x80/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png)](http://www.credly.com/badges/68ef2b44-3bfe-4e9d-b08b-c3cac97a09f8 "Microsoft Certified: Azure Administrator Associate")
